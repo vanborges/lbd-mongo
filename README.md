@@ -1,4 +1,5 @@
-# @uthor: Diego Bulhões - https://github.com/DiegoBulhoes/database-laboratory
+@author: Diego Bulhões - https://github.com/DiegoBulhoes/database-laboratory
+
 # Docker Mongo
 
 Exemplo de uso do Docker + Mongo, para execultar o exemplo basta execultar.
