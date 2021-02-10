@@ -1,12 +1,13 @@
 @author: Diego Bulhões - https://github.com/DiegoBulhoes/database-laboratory
 
-# Docker Mongo
+
+# Docker play
+https://labs.play-with-docker.com/
+
+# Docker MongoDB e MongoDB Express
 
 Exemplo de uso do Docker + Mongo, para execultar o exemplo basta execultar.
 
-```shell
-docker-compose up
-```
 
 Para execultar em background use esse comando
 
