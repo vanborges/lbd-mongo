@@ -21,3 +21,9 @@ O IP do servidor Mongo é 172.16.18.3
 User: root
 Password: mongo
 ```
+
+# Para utilizar o MongoDB via terminal utilize o seguinte comando
+
+```
+docker exec -it mongo-database mongo
+```
